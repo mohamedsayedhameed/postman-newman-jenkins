@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "project for run test by newman",
   "directories": {
-    "api-tests-production": "new man run/tests/newman-run.postman_collection.json"
+    "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "api-tests-production": "new man run/tests/newman-run.postman_collection.json"
   },
   "author": "Sayed",
   "license": "ISC",
